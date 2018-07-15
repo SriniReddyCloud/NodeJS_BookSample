@@ -52,10 +52,9 @@ For integration testing, Install supertest (only dev environments)
 HATEOS - Hypertext As The Engine of Application State
 Helps to build self document for API
 
-
+https://medium.com/@mosheezderman/how-to-set-up-ci-cd-pipeline-for-a-node-js-app-with-jenkins-c51581cc783c
 
 MongoDB
 CIDR Block IP: 0.0.0.0/0
 User Name: IoT_User
 Password: N!$$@N
-
